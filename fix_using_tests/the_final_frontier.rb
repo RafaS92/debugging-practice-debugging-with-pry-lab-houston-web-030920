@@ -11,7 +11,7 @@ end
 def crew
   ["Geordi", "Data", "Worf", "William", "Beverly", "Deanna"]
 end
-
+binding.pry
 def greet_crew (crew)
   crew.each {|crew_member| "Hello #{crew_member}."}
 end
