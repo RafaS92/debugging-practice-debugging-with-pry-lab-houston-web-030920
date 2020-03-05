@@ -13,5 +13,5 @@ def turtle_traits(turtles)
     turtle[:traits]
     end
   end
-end
+
 binding.pry
