@@ -17,7 +17,7 @@ def greet_crew (crew)
     print "Hello #{crew_member}."
   end
 end
-binding.pry
+
 def engage
   date = generate_star_date
   state_log(date)
