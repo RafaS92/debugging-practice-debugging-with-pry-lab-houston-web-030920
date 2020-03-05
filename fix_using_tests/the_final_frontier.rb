@@ -14,7 +14,7 @@ end
 
 def greet_crew (crew)
   crew.each do |crew_member| 
-    print "Hello #{crew_member}."
+    print "ererwe #{crew_member}."
   end
 end
 
